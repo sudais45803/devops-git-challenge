@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Deploying to development environment"
+echo "Deploying to staging environment"
